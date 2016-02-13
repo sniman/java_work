@@ -11,7 +11,7 @@ import javax.ws.rs.core.Response;
 
 /**
  *
- * @author lessonslab.com This is interface for the employee services
+ * @author 608761624 This is interface for the employee services
  *
  */
 @Path("/")
