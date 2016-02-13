@@ -1,0 +1,7 @@
+com\norirman\rest\service\model\Version.class
+com\norirman\rest\service\model\Employee.class
+com\norirman\rest\service\CxfRestService.class
+com\norirman\servlet\GetServ.class
+com\norirman\rest\service\internal\CxfRestServiceImpl.class
+com\norirman\rest\service\dao\EmployeeDao.class
+com\norirman\rest\service\dao\ApplicationDao.class
